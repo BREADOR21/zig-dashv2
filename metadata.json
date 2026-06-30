@@ -1,0 +1,6 @@
+{
+  "name": "Zig Dash",
+  "description": "An endless neon arcade game. Tap to zig-zag, stay on the path, and set a new high score!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
